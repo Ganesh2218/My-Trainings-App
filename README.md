@@ -20,6 +20,7 @@ The **My Trainings App** is a Flutter-based mobile application that helps users 
    ```bash
    git clone https://github.com/Ganesh2218/My-Trainings-App.git
 
+The APK file is available in the build\app\outputs\flutter-apk\app-release.apk directory or as a separate download link.
    
 A few resources to get you started if this is your first Flutter project:
 
